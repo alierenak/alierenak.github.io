@@ -13,7 +13,7 @@ name                     : &name "Ali Eren Ak"
 description              : &description "personal description"
 url                      : https://alierenak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "alierenak/academicpages.github.io"
+repository               : "alierenak/alierenak.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ali Eren Ak"
+  name             : # "Ali Eren Ak"
   avatar           : "profile.png"
-  bio              : "Undergraduate Computer Science Student at Sabancı University. Currently interested in Deep Learning and NLP. I write codes for fun!"
+  bio              : "Call me Ali Eren. I write code, play drums and travel. Are you interested in? Reach me out!"
   location         : "Istanbul"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  email            : "akali@sabanciuniv.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -105,7 +105,7 @@ author:
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : https://stackoverflow.com/users/12329356/ali-eren-ak
+  stackoverflow    : # https://stackoverflow.com/users/12329356/ali-eren-ak
   steam            :
   tumblr           :
   twitter          : "@akaliieren"

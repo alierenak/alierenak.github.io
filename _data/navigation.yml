@@ -1,7 +1,20 @@
 # main links links
 main:
-    - title: "Resume"
-      url: /files/resume.pdf/
+    - title: "Home"
+      url: /
+
+    - title: "Projects"
+      url: projects/
+
+    - title: "Voluntership"
+      url: volunteership/
+
+    - title: "Curriculum Vitae"
+      url: /files/resume.pdf
+
   # I am planning to add some write blog posts later
   # - title: "Blog Posts"
   #   url: /year-archive/
+
+    - title: "More"
+      url: social/

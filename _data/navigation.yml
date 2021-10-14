@@ -4,10 +4,10 @@ main:
       url: /
 
     - title: "Projects"
-      url: projects/
+      url: /projects/
 
     - title: "Voluntership"
-      url: volunteership/
+      url: /volunteership/
 
     - title: "Curriculum Vitae"
       url: /files/resume.pdf
@@ -17,4 +17,4 @@ main:
   #   url: /year-archive/
 
     - title: "More"
-      url: social/
+      url: /social/

@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Get the know me!"
-permalink: /volunteership
+permalink: /volunteership/
 author_profile: true
 ---
 

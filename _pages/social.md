@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Get the know me!"
-permalink: /social
+permalink: /social/
 author_profile: true
 ---
 
